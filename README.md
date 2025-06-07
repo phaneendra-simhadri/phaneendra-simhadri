@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on new start-up's
 - 📫 How to reach me ....
-- 😄 Pronouns: Phani
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ....
 
 <!---
