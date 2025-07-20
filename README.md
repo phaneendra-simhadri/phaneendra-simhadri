@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phaneendra-simhadri
-- 👀 I’m interested in crating new products
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in creating new products
+- 🌱 I’m currently learning COMPUTERS
 - 💞️ I’m looking to collaborate on new start-up's
 - 📫 How to reach me ....
 - 😄 Pronouns: he/him
